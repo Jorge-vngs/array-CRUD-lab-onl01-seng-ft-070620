@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
    letter_array = ["wow","variable!","arrays!"]
-   arrays = letter_array.pop
+   wow = letter_array.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
