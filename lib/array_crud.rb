@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
    letter_array = ["will","do","the","am"]
-   wow = letter_array.shift 
+   letter_array [am] 
 end
 
 def retrieve_first_element_from_array(array)
