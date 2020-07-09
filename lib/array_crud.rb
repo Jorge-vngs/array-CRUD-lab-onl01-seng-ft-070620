@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   letter_array = ["element!","variable!","house!"]
-  letter_array.unshift "arrays!"
+  letter_array.unshift "method!"
 end
 
 def remove_element_from_end_of_array(array)
